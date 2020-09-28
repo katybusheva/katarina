@@ -34,7 +34,7 @@ makeup = int(input("{blue}Введите число с номером вида �
 
 if 0 < zodiac < 4:
 
-    print(random.choice(first), random.choice(second), random.choice(second_add), random.choice(third))
+    print(random.choice(first), random.choice(second), random.choice(third))
 
 else:
 
